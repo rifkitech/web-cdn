@@ -1,1 +1,1 @@
-### cdn berisi gambar untuk Website
+### CDN (Content Delivery Network) berisi gambar untuk Website.
